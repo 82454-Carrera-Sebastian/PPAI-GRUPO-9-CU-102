@@ -90,11 +90,14 @@
       <DependentUpon>DSIDataSet.xsd</DependentUpon>
     </Compile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="Entities\Entrada.cs" />
     <Compile Include="Entity\Tarifa.cs" />
     <Compile Include="Entity\TipoEntrada.cs" />
     <Compile Include="Entity\TipoVisita.cs" />
 =======
+=======
+>>>>>>> parent of a86bf77 (Tano)
     <Compile Include="Entities\DetalleExposicion.cs" />
     <Compile Include="Entities\Sede.cs" />
     <Compile Include="Entities\Usuario.cs" />
@@ -105,6 +108,9 @@
     <Compile Include="Entities\Tarifa.cs" />
     <Compile Include="Entities\TipoEntrada.cs" />
     <Compile Include="Entities\TipoVisita.cs" />
+<<<<<<< HEAD
+>>>>>>> parent of a86bf77 (Tano)
+=======
 >>>>>>> parent of a86bf77 (Tano)
     <Compile Include="Forms\DetalleEntradas.cs">
       <SubType>Form</SubType>
